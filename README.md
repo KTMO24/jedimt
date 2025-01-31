@@ -48,7 +48,8 @@
 
 Clone the Repository
 
-git clone https://github.com/yourusername/jedimt.git
+git clone 
+https://github.com/KTMO24/jedimt.git
 cd jedimt
 
 Install Dependencies
@@ -426,14 +427,11 @@ Contact
 
 For any inquiries or support, please contact:
 	•	Author: Travis Michael O’Dell
-	•	Email: travis.odell@example.com
-	•	GitHub: @yourusername
+	•	Email: travismichaelodell@tutamail.com
+	•	
 
 Acknowledgements
 	•	Google’s Gemini AI: For providing powerful generative capabilities.
 	•	OpenAI: For the foundational inspiration and AI models.
 	•	Community Contributors: For their valuable feedback and contributions.
 
----
-
-**Note:** Replace placeholders like `yourusername`, `travis.odell@example.com`, and image URLs with your actual GitHub username, contact email, and asset links.
